@@ -16,4 +16,4 @@ In many common systems, the particles to be mixed have different properties and 
 
 ### The Brazil Nut Effect
 
-[![Watch the video](https://img.youtube.com/vi/iiqvAKmiL_Y/sddefault.jpg)](https://www.youtube.com/watch?v=iiqvAKmiL_Y)
+[![Watch the video](https://img.youtube.com/vi/t8XZT0uMLbY/sddefault.jpg)](https://www.youtube.com/watch?v=t8XZT0uMLbY)
