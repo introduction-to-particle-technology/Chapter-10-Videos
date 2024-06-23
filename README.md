@@ -8,7 +8,7 @@ In many common systems, the particles to be mixed have different properties and 
 
 ### Segregation - Pouring into a Heap
 
-[![Watch the video](https://img.youtube.com/vi/VLG6OEKM23E/sddefault.jpg)](https://www.youtube.com/watch?v=VLG6OEKM23E)
+[![Watch the video](https://img.youtube.com/vi/FnI93bUfg0o/sddefault.jpg)](https://www.youtube.com/watch?v=FnI93bUfg0o)
 
 ### Segregation in a Rotating Drum
 
