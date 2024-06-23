@@ -12,7 +12,7 @@ In many common systems, the particles to be mixed have different properties and 
 
 ### Segregation in a Rotating Drum
 
-[![Watch the video](https://img.youtube.com/vi/iiqvAKmiL_Y/sddefault.jpg)](https://www.youtube.com/watch?v=iiqvAKmiL_Y)
+[![Watch the video](https://img.youtube.com/vi/sv_Myi7YPcA/sddefault.jpg)](https://www.youtube.com/watch?v=sv_Myi7YPcA)
 
 ### The Brazil Nut Effect
 
